@@ -117,7 +117,7 @@
             this.tbxClientSecret.Name = "tbxClientSecret";
             this.tbxClientSecret.Size = new System.Drawing.Size(389, 20);
             this.tbxClientSecret.TabIndex = 3;
-            this.tbxClientSecret.Text = "3BZQqGTnoXI6EARN";
+            this.tbxClientSecret.Text = "";
             // 
             // label2
             // 
@@ -134,7 +134,7 @@
             this.tbxClientId.Name = "tbxClientId";
             this.tbxClientId.Size = new System.Drawing.Size(389, 20);
             this.tbxClientId.TabIndex = 1;
-            this.tbxClientId.Text = "310h5GqntyNNGIfzZK0CtMDwQHrWWkKG";
+            this.tbxClientId.Text = "";
             // 
             // label1
             // 
@@ -174,4 +174,5 @@
         private System.Windows.Forms.TextBox tbxClientId;
         private System.Windows.Forms.Label label1;
     }
+
 }
