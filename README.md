@@ -1,3 +1,6 @@
+<!-- archived-notice -->
+> **This repository is archived.** Archived repositories are not maintained or supported.
+
 # a360backup-data.management-csharp
 
 ![screenshot](screenshot.png)
