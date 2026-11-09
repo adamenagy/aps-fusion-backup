@@ -706,7 +706,7 @@ namespace A360Archiver
             var accessToken = logInInfo.accessToken;
             Debug.Print("getF3z >> accessToken : " + accessToken);
             request.AddHeader("Authorization", "Bearer " + accessToken);
-            request.AddParameter("application/vnd.api+json", body, ParameterType.RequestBody);
+            request.AddParameter("application/json", body, ParameterType.RequestBody);
 
             try
             {
